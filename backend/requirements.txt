@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+torch
+torchvision
+fastapi
+uvicorn
+web3
+py-solc-x
+numpy
